@@ -4,9 +4,30 @@
 
 
 /* todayクラスに適用するスタイル */
+.today {
+  font-size: 20px;
+}
 
+#wheather {
+  background-color: #ffc0cb;
+  display:inline-block ;
+  height: 28px;
+}
 /* temperatureクラスに適用するスタイル */
-
+.temperature {
+  background-color: #ffd8b2;
+  display: inline-block;
+  width: 40px;
+  height: 20px;
+}
 /* humidityクラスに適用するスタイル */
-
+.humidity {
+  background-color: #add8e6;
+  display: inline-block;
+  width: 40px;
+  height: 20px;
+}
 /* img要素に適用するスタイル */
+.img {
+  display: block;
+}
